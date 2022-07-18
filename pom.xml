@@ -36,12 +36,12 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.253.160:8081/repository/abc-Release/</url>
+            <url>http://192.168.253.165:8081/repository/port-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.253.160:8081/repository/abc2-Snap/</url>
+            <url>http://192.168.253.165:8081/repository/port-test-Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
